@@ -1,0 +1,16 @@
+
+  This ll1 parser works for non terminals S, A and B
+  and terminals 0 and 1
+
+  This does not require $ at the end of the input.
+
+  1) See rules for the input file.  ; is used to mark the end 
+  of each line.
+
+  2) Run my demo program first.  Try 0110, 1001, 200, 0110000
+  and 0111
+
+  3) Observe the trace and error messages so that you can produce identical ones.
+
+  4) Then complete ll1.cpp.
+
